@@ -1,5 +1,5 @@
 # TicTacToe-Game
-An easy command line Tic-Tac-Toe game written in Python
+An easy command-line Tic-Tac-Toe game written in Python
 
 <b>Example:</b>
               
